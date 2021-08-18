@@ -1,5 +1,5 @@
 # MVP
-#### Sabrina Yang
+#### Diego Duque
 
 Using the 2014-2015 Apple related tweets dataset I was able to get a topic modeling that will allow me to do the sentiment test.
 
