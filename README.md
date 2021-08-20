@@ -5,10 +5,10 @@ Diego Duque
 
 ## Abstract
 
-The purpose of this project is to understand and analyze tweets related to Apple. This company has been getting more and more popular over th eyears. It is a contemporary reference for high-tech. Using Python brings us the opportunity to massively understading tweets.
+The purpose of this project is to understand and analyze tweets related to Apple. This company has been getting more and more popular over the years. It is a contemporary reference for high-tech. Using Python brings us the opportunity to massively understanding tweets related to anything, in this case, related to Apple.
 
 ## Design
-The project is designed to undupervised learning as a final result. Topic model is also performed and at the end of the code  will be provided sentiment analysis related to the dataset.
+The project is designed to unsupervised learning as a final result. Topic model is also performed and at the end of the code  will be provided sentiment analysis related to the dataset.
 
 ## Data
 This public [Kaggle](https://www.kaggle.com/seriousran/appletwittersentimenttexts) dataset will be used: 1624 unique values (tweets).
