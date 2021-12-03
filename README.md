@@ -1,4 +1,4 @@
-# Tweets sentiment Apple
+# Tweets about Apple
 
 Diego Duque
 
