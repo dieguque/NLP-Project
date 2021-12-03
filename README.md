@@ -1,4 +1,4 @@
-# Tweets about Apple
+# NLP of tweets about Apple
 
 Diego Duque
 
